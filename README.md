@@ -9,7 +9,7 @@ Ce projet est une application web e-commerce permettant de gérer des produits e
 - **Atelier 1 :** Introduction au Framework Django, architecture MVT, création du projet et des vues.
 - **Atelier 2 :** Gestion des données avec l'ORM Django, modèles, migrations, interface d'administration et templates.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Python 3.14**
 - **Django 6.0**
@@ -17,4 +17,4 @@ Ce projet est une application web e-commerce permettant de gérer des produits e
 - **Pillow** (gestion des images)
 - **HTML / CSS**
 
-## 📁 Structure du projet
+##  Structure du projet
