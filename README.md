@@ -2,7 +2,7 @@
 
 Un projet e-commerce développé avec le framework Django dans le cadre du module **Développement Web Python 2026**.
 
-## 📋 Description
+## Description
 
 Ce projet est une application web e-commerce permettant de gérer des produits et des catégories. Il a été réalisé en deux ateliers :
 
